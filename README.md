@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Clément</h1>
-<h3 align="center">I love to share what I've learned with others. Truly convinced that technology is changing the world</h3>
+<h3 align="center">I love to share what I've learned with others.</h3>
 
 
 <h3 align="center">Connect with me:</h3>
